@@ -4,10 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container";
-      padding-right: 10px;
-  padding-bottom: 0px;
-  padding-left: 10px;>
+    <div className="container">
     
       <Head>
         <title>Lotte Calculator</title>
