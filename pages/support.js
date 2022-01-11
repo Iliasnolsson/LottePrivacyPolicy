@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import React from "react";
-import styles from '../styles/Support.module.css'
 
 export default function Support() {
     return (
