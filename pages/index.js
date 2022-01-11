@@ -5,15 +5,11 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Lotte Calculator Privacy Policy" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          We do not store any of your data. Lotte Calculator and all of our other apps do not collect or store any of your data. </code>
         </p>
       </main>
 
