@@ -8,7 +8,7 @@ export default function Home() {
     
       <Head>
         <title>Lotte Calculator</title>
-        <link rel="icon" href="/LotteIco.ico" />
+        <link rel="icon" href="/lotteCalculatorWebsiteIcon.ico" />
       </Head>
     
       <main>
