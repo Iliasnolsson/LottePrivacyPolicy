@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 import React from "react";
 import styles from '../styles/About.module.css'
 
-export default function About() {
+export default function Support() {
     return (
         <div className="container">
         
@@ -16,7 +16,7 @@ export default function About() {
           <main>
             <Header title="iliasnolsson@icloud.com" />
             <p className="description">
-              Feel free to contact me with any feedback or for support
+              Feel free to contact me with any feedback or if you need support
             </p>
           </main>
     
