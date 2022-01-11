@@ -13,7 +13,7 @@ export default function Home() {
     
       <main>
         <Header title="Lotte Calculator \n Privacy Policy" />
-        <p className="description" style="text-align:center;">
+        <p className="description">
           We do not store any of your data. Lotte Calculator and all of our other apps do not collect or store any of your data.
         </p>
       </main>
